@@ -1,6 +1,6 @@
 def show_balance(balance):
     print("\n--- Your Current Balance ---")
-    print(f"Balance: ${balance:.2f}")
+                    print(f"Balance: ${balance:.2f}")
     print("-----------------------------\n")
 
 def deposit():
